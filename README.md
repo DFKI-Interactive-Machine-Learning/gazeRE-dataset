@@ -33,10 +33,10 @@ Further, a `User_Rating` file saves the participant's relevance estimation for e
 
     <participant_id>
         -GoogleNQ
-                -<condition_classifier>.csv
+                -<OrderID_StimulusID>.csv
                 -User_Rating
         -g-REL
-                -<condition_classifier>.csv
+                -<OrderID_StimulusID>.csv
                 -User_Rating
 
 
