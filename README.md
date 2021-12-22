@@ -54,6 +54,19 @@ Further, a `User_Rating` file saves the participant's relevance estimation for e
 
 The screen has a resolution of `2560x1440`. Therefore, all x-coordinates lie between `[0.0, 2560.0]` and y-coordinates between `[0.0, 1440.0]`. 
 
+## Cite us
+When using our dataset or our feature implementation please cite the following article:
+ ```
+ @article{barz_implicit_2021,
+	title = {Implicit {Estimation} of {Paragraph} {Relevance} from {Eye} {Movements}},
+	issn = {2624-9898},
+	url = {https://www.frontiersin.org/articles/10.3389/fcomp.2021.808507},
+	doi = {10.3389/fcomp.2021.808507},
+	journal = {Frontiers in Computer Science},
+	author = {Barz, Michael and Bhatti, Omair Shahzad and Sonntag, Daniel},
+	year = {2021},
+}
+```
     
 ## References
 <a id="1">[1]</a> 
